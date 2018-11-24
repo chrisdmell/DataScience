@@ -1,0 +1,73 @@
+---
+title: "Exploring the BRFSS data"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    theme: spacelab
+---
+
+## Setup
+
+### Load packages
+
+```{r load-packages, message = FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+### Load data
+```{r load-data}
+load("brfss2013.RData")
+```
+
+
+
+* * *
+
+## Part 1: Data
+Dataset : [Dataset columns and their details](https://d3c33hcgiwev3.cloudfront.net/_e34476fda339107329fc316d1f98e042_brfss_codebook.html?Expires=1541116800&Signature=BD8jCGrLBjkXRiuI08qinyDD3fvQ4L3ItOJYVWTWNxyJUm7jxqwQtXspJYMsECYzqbPp-65T1aBFb5x0s6t-8jXhlL0tIzP1XHTfQOuSxS3APHNueh4lluL6UOeb06B6A3CD6tki3uYgaqwfJ-JT0ElzPhHYvSf2e4iVpVcEkzU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) 
+<br>
+[Whether a dataset is randomly sampled](https://www.quora.com/How-do-I-know-if-a-sample-from-a-population-is-a-random-sample-without-making-any-assumptions-on-the-distribution-of-the-population)<br>
+[solution](https://github.com/bhunkeler/DataScienceCoursera/blob/master/Statistics%20-%20Duke%20University/001_Introduction_to_Probability_and_Data/Week%205/Lab/Project5/intro_data_prob_project.Rmd)
+* * *
+
+## Part 2: Research questions
+
+**Research quesion 1:**
+
+**Research quesion 2:**
+
+**Research quesion 3:**
+
+
+* * *
+
+## Part 3: Exploratory data analysis
+
+NOTE: Insert code chunks as needed by clicking on the "Insert a new code chunk" 
+button (green button with orange arrow) above. Make sure that your code is visible
+in the project you submit. Delete this note when before you submit your work.
+
+**Research quesion 1:**
+
+```{r}
+
+```
+
+
+
+**Research quesion 2:**
+
+```{r}
+
+```
+
+
+
+**Research quesion 3:**
+
+```{r}
+
+```
+
